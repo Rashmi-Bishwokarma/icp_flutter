@@ -13,7 +13,7 @@ class HomeScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("HomeSSScreen"),
+        title: const Text("Home Screen"),
         actions: [
           Row(
             children: [
